@@ -56,3 +56,5 @@ This project demonstrates image encryption and decryption using an S-Box (Substi
 3. **Save and Display**: The decrypted image is saved to the disk and displayed.
 
 By using S-Box and its inverse, the image encryption and decryption process ensures that each pixel value is substituted in a reversible manner, providing a simple yet effective encryption mechanism.
+
+![Original Image](cryptography.jpg)
