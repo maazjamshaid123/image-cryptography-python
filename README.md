@@ -1,4 +1,4 @@
-# Image Encryption and Decryption using S-Box (PYTHON)
+# Lightweight Image Encryption and Decryption using S-Box (PYTHON)
 
 This project demonstrates image encryption and decryption using an S-Box (Substitution Box) technique. The provided Python scripts use the OpenCV and NumPy libraries to process images.
 
